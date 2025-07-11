@@ -1239,6 +1239,7 @@
       "redstone_abyss": "2025-07-11 19:10:12 +0000",
       "autumnal_maple_forest": "2025-07-11 01:33:11 +0000",
       "muddy_river": "2025-07-11 01:34:21 +0000",
+      "willow_forest": "2025-07-11 22:41:10 +0000",
       "frozen_tundra": "2025-07-11 01:27:00 +0000",
       "redstone_caves": "2025-07-11 18:44:55 +0000",
       "poppy_fields": "2025-07-11 01:08:05 +0000",
@@ -1253,6 +1254,7 @@
       "blackstone_basin": "2025-07-11 18:13:08 +0000",
       "infernal_holt": "2025-07-11 18:13:11 +0000",
       "cold_boreal_taiga": "2025-07-11 01:52:46 +0000",
+      "temperate_grove": "2025-07-11 22:41:15 +0000",
       "cold_river": "2025-07-11 01:09:35 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
@@ -1265,6 +1267,7 @@
       "silver_birch_forest": "2025-07-11 01:08:06 +0000",
       "autumnal_maple_forest": "2025-07-11 01:33:11 +0000",
       "muddy_river": "2025-07-11 01:34:21 +0000",
+      "willow_forest": "2025-07-11 22:41:10 +0000",
       "frozen_tundra": "2025-07-11 01:27:00 +0000",
       "poppy_fields": "2025-07-11 01:08:05 +0000",
       "grassy_beach": "2025-07-11 01:08:31 +0000",
@@ -1274,6 +1277,7 @@
       "maple_forest": "2025-07-11 01:08:58 +0000",
       "boreal_forest": "2025-07-11 01:14:30 +0000",
       "cold_boreal_taiga": "2025-07-11 01:52:46 +0000",
+      "temperate_grove": "2025-07-11 22:41:15 +0000",
       "cold_river": "2025-07-11 01:09:35 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
@@ -2150,6 +2154,7 @@
       "minecraft:cave_spider": "2025-07-11 02:27:24 +0000",
       "minecraft:piglin": "2025-07-11 18:02:10 +0000",
       "minecraft:stray": "2025-07-11 02:27:16 +0000",
+      "minecraft:silverfish": "2025-07-11 21:59:42 +0000",
       "minecraft:vex": "2025-07-11 01:57:26 +0000",
       "minecraft:zombie": "2025-07-11 01:38:38 +0000"
     },
@@ -4963,6 +4968,156 @@
   "dungeons_enhanced:chilled_halls": {
     "criteria": {
       "entered_ice_pit": "2025-07-11 21:13:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 21:43:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 21:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-11 21:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-11 21:45:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-07-11 21:45:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_7": "2025-07-11 21:54:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-11 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-11 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-11 21:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-11 22:02:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-07-11 22:02:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-11 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-11 22:12:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-11 22:12:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-11 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-11 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-11 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-11 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-11 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:it_burns": {
+    "criteria": {
+      "it_burns": "2025-07-11 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2025-07-11 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-11 23:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-11 23:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-11 23:03:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-11 23:09:10 +0000"
     },
     "done": true
   },
