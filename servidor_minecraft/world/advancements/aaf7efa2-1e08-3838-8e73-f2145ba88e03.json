@@ -1825,6 +1825,7 @@
     "criteria": {
       "entered_stables": "2025-07-11 17:35:27 +0000",
       "entered_flying_dutchman": "2025-07-11 16:57:03 +0000",
+      "entered_ice_pit": "2025-07-11 21:13:23 +0000",
       "entered_castle": "2025-07-11 20:43:59 +0000",
       "entered_sunken_shrine": "2025-07-11 16:49:32 +0000",
       "entered_ruined_building": "2025-07-11 01:15:53 +0000"
@@ -4840,6 +4841,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_ice_pit": "2025-07-11 21:13:23 +0000",
       "entered_castle": "2025-07-11 20:43:59 +0000"
     },
     "done": false
@@ -4916,12 +4918,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/death_master": {
-    "criteria": {
-      "has_prevent_fall": "2025-07-11 21:11:09 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-07-11 21:06:52 +0000"
@@ -4934,11 +4930,29 @@
     },
     "done": false
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-07-11 21:06:52 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-07-11 21:06:59 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-07-11 21:06:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_fall": "2025-07-11 21:11:09 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/prevent_death_fall": {
     "criteria": {
@@ -4946,15 +4960,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_maledictus": {
+  "dungeons_enhanced:chilled_halls": {
     "criteria": {
-      "ignis": "2025-07-11 21:06:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-07-11 21:06:59 +0000"
+      "entered_ice_pit": "2025-07-11 21:13:23 +0000"
     },
     "done": true
   },

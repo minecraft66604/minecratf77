@@ -2968,3 +2968,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 21:07:06.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [11Jul2025 21:11:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [I slipped]
 [11Jul2025 21:13:23.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Chilled Halls]
+[11Jul2025 21:17:01.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[11Jul2025 21:17:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[11Jul2025 21:24:24.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:42903] logged in with entity id 174709 at (-894.8768931577382, 86.0, -801.0770733996565)
+[11Jul2025 21:24:24.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[11Jul2025 21:24:24.621] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[11Jul2025 21:29:42.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lucian'/178462, l='ServerLevel[world]', x=-422.44, y=62.00, z=-489.51] died, message: 'Lucian froze to death'
+[11Jul2025 21:29:42.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lucian'/178462, l='ServerLevel[world]', x=-422.44, y=62.00, z=-489.51] died: Lucian froze to death
+[11Jul2025 21:31:00.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 21:38:04.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 21:43:41.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Bound Forever]
+[11Jul2025 21:43:41.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Let The Magic Happen]
