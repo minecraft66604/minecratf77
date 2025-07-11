@@ -1824,6 +1824,7 @@
     "criteria": {
       "entered_stables": "2025-07-11 17:35:27 +0000",
       "entered_flying_dutchman": "2025-07-11 16:57:03 +0000",
+      "entered_castle": "2025-07-11 20:43:59 +0000",
       "entered_sunken_shrine": "2025-07-11 16:49:32 +0000",
       "entered_ruined_building": "2025-07-11 01:15:53 +0000"
     },
@@ -4770,6 +4771,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-07-11 20:48:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-07-11 19:57:10 +0000"
@@ -4788,6 +4795,30 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-07-11 20:50:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-07-11 20:50:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-07-11 20:48:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-11 20:48:48 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_chestplate": {
     "criteria": {
       "has_item": "2025-07-11 20:19:19 +0000"
@@ -4800,11 +4831,29 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-11 20:48:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-07-11 19:57:10 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2025-07-11 20:43:59 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_1": "2025-07-11 20:50:11 +0000"
+    },
+    "done": false
   },
   "celestisynth:recipes/combat/lunar_stone_leggings": {
     "criteria": {
@@ -4812,9 +4861,21 @@
     },
     "done": true
   },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-07-11 20:43:59 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-07-11 20:23:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-07-11 20:48:48 +0000"
     },
     "done": true
   },
