@@ -1336,8 +1336,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-11 18:10:15 +0000",
       "cooked_beef": "2025-07-11 01:19:50 +0000",
-      "baked_potato": "2025-07-11 17:21:21 +0000"
+      "baked_potato": "2025-07-11 17:21:21 +0000",
+      "suspicious_stew": "2025-07-11 18:00:00 +0000"
     },
     "done": false
   },
@@ -1374,6 +1376,7 @@
       "rocky_meadow": "2025-07-11 01:24:33 +0000",
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
+      "frozen_pine_taiga": "2025-07-11 18:25:56 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "cold_boreal_taiga": "2025-07-11 02:54:36 +0000",
       "temperate_grove": "2025-07-11 02:19:06 +0000",
@@ -1392,6 +1395,7 @@
       "rocky_meadow": "2025-07-11 01:24:33 +0000",
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
+      "frozen_pine_taiga": "2025-07-11 18:25:56 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "cold_boreal_taiga": "2025-07-11 02:54:36 +0000",
       "temperate_grove": "2025-07-11 02:19:06 +0000",
@@ -3326,9 +3330,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-11 18:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-11 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-11 17:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-11 18:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
     },
     "done": true
   },
@@ -3337,6 +3419,24 @@
       "entered_castle": "2025-07-11 17:56:27 +0000"
     },
     "done": false
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 17:58:28 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:wars_and_kingdoms": {
     "criteria": {
@@ -3347,6 +3447,18 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-11 17:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-11 18:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-11 18:03:28 +0000"
     },
     "done": true
   },

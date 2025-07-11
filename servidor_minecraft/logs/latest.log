@@ -1113,3 +1113,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 17:58:09.126] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [11Jul2025 17:58:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [Bone Crusher]
 [11Jul2025 17:58:56.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Your First Receptacle]
+[11Jul2025 17:59:45.061] [Server thread/WARN] [tombstone/]: The death event of the player -Azumi- was canceled by another mod
+[11Jul2025 17:59:45.523] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[11Jul2025 17:59:45.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[11Jul2025 18:01:11.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Nether Exorcism]
+[11Jul2025 18:01:11.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [We Need to Go Deeper]
+[11Jul2025 18:01:13.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[11Jul2025 18:01:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Cover Me with Diamonds]
+[11Jul2025 18:02:53.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [A Terrible Fortress]
+[11Jul2025 18:03:04.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Diamonds!]
+[11Jul2025 18:03:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Diamonds!]
+[11Jul2025 18:05:00.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Where Is The Stone Pen?]
+[11Jul2025 18:08:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Into Fire]
+[11Jul2025 18:10:03.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Knowledge of Death]
+[11Jul2025 18:10:03.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Ashes 'n Bones]
+[11Jul2025 18:13:33.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=701, y=76, z=-920} BlockPos{x=701, y=75, z=-920}
+[11Jul2025 18:19:32.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Chompy]
+[11Jul2025 18:20:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Would you Like to Know More?]
+[11Jul2025 18:20:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [A Seedy Place]
+[11Jul2025 18:28:40.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [It Belongs in a Museum]
