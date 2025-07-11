@@ -1030,3 +1030,67 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 23:23:42.302] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
 [11Jul2025 23:25:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [The Wind Darkening]
 [11Jul2025 23:25:40.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Stone Age]
+[11Jul2025 23:26:11.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Getting an Upgrade]
+[11Jul2025 23:27:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> quita la lluvia
+[11Jul2025 23:27:16.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RODSQUARE> chaulluvia
+[11Jul2025 23:27:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> lluvia vete
+[11Jul2025 23:27:23.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[11Jul2025 23:27:31.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> pofavo
+[11Jul2025 23:27:41.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RODSQUARE> apagarlluvia
+[11Jul2025 23:27:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> barra ban juancito
+[11Jul2025 23:28:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RODSQUARE> dios deja de orinar por favor
+[11Jul2025 23:30:48.951] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:31:32.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Jul2025 23:32:31.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Jul2025 23:32:50.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:32:54.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! -4.189677058186305,1.756759288177264,-9.201410097244434
+[11Jul2025 23:33:43.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:34:30.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11Jul2025 23:34:32.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:34:51.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11Jul2025 23:35:02.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:35:10.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:35:21.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Jul2025 23:36:19.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was killed by magic whilst trying to escape -Azumi-
+[11Jul2025 23:36:20.133] [Server thread/INFO] [tombstone/]: The player JUANCITO has successfully been saved
+[11Jul2025 23:36:23.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [The Most Useful Key]
+[11Jul2025 23:36:34.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved wrongly! 0.3889270909712508
+[11Jul2025 23:36:34.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved wrongly! 0.6126084613971869
+[11Jul2025 23:36:34.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved wrongly! 0.8525708195700474
+[11Jul2025 23:36:34.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved wrongly! 1.1078711088129154
+[11Jul2025 23:36:34.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved wrongly! 1.377363938982242
+[11Jul2025 23:36:34.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved wrongly! 1.6591802201927095
+[11Jul2025 23:36:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Monster Hunter]
+[11Jul2025 23:38:35.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:38:39.466] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[11Jul2025 23:38:49.892] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[11Jul2025 23:38:52.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:38:52.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:39:01.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[11Jul2025 23:39:26.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:39:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[11Jul2025 23:39:41.202] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[11Jul2025 23:39:42.285] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[11Jul2025 23:39:42.286] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[11Jul2025 23:39:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[11Jul2025 23:39:46.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE died because of Megapiranha
+[11Jul2025 23:39:46.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Your First Grave]
+[11Jul2025 23:39:46.685] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[11Jul2025 23:40:03.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:41:16.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Sweet Dreams]
+[11Jul2025 23:41:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUANCITO> fusdgjfhskjlfjhdjsdk
+[11Jul2025 23:42:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Ender Distancing]
+[11Jul2025 23:42:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Capsid-19]
+[11Jul2025 23:43:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Acquire Hardware]
+[11Jul2025 23:44:28.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Dragonslayer]
+[11Jul2025 23:44:33.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was pricked to death
+[11Jul2025 23:44:33.586] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 23:44:41.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:44:43.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[11Jul2025 23:45:15.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[11Jul2025 23:45:15.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[11Jul2025 23:46:02.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:51605] logged in with entity id 25064 at (-333.06955479722455, 109.0, -1191.5638830566559)
+[11Jul2025 23:46:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[11Jul2025 23:46:02.315] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[11Jul2025 23:47:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Minecraft Comes Alive]
+[11Jul2025 23:47:52.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind

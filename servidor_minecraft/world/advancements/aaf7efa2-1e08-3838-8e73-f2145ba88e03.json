@@ -5003,6 +5003,7 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
+      "trickor_treat_4": "2025-07-11 23:36:15 +0000",
       "trickor_treat_7": "2025-07-11 21:54:50 +0000"
     },
     "done": false
@@ -5118,6 +5119,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-11 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-11 23:36:23 +0000"
     },
     "done": true
   },
