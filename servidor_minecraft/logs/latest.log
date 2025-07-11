@@ -1274,3 +1274,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 20:32:30.407] [Server thread/INFO] [tombstone/]: The player JUANCITO has successfully been saved
 [11Jul2025 20:33:56.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was slain by Mr. Pumpkin
 [11Jul2025 20:33:56.455] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 20:35:48.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has completed the challenge [Just a Flesh Wound]
+[11Jul2025 20:37:26.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 20:38:45.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 20:40:58.810] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[11Jul2025 20:40:58.812] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[11Jul2025 20:41:22.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marzhan'/149916, l='ServerLevel[world]', x=-422.63, y=103.00, z=-829.28] died, message: 'Marzhan suffocated in a wall'
+[11Jul2025 20:41:23.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Furkat'/149911, l='ServerLevel[world]', x=-414.52, y=102.00, z=-829.46] died, message: 'Furkat suffocated in a wall'
+[11Jul2025 20:41:23.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mamurjon'/149914, l='ServerLevel[world]', x=-403.63, y=100.56, z=-821.28] died, message: 'Mamurjon suffocated in a wall'
+[11Jul2025 20:41:51.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Samat'/150062, l='ServerLevel[world]', x=-432.28, y=105.56, z=-845.37] died, message: 'Samat suffocated in a wall'
+[11Jul2025 20:42:46.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was slain by Zombie
+[11Jul2025 20:42:46.406] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 20:43:12.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 20:43:56.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd was kicked for floating too long!
+[11Jul2025 20:43:56.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Flying is not enabled on this server
+[11Jul2025 20:43:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[11Jul2025 20:43:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Forgotten Wars and Kingdoms]
+[11Jul2025 20:44:07.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:54731] logged in with entity id 153002 at (13.89588661383145, 65.7611611466279, 76.4039107088173)
+[11Jul2025 20:44:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[11Jul2025 20:44:07.428] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
