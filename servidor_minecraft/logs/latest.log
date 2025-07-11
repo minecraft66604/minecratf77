@@ -1208,3 +1208,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 19:36:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Deceived Hopes]
 [11Jul2025 19:40:05.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [11Jul2025 19:40:06.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:42:54.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:44:00.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:48:10.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[11Jul2025 19:51:21.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Hidden in the Depths]
