@@ -3326,6 +3326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/golden_larch_shrub": {
     "criteria": {
       "has_golden_larch_sapling": "2025-07-11 17:07:07 +0000"
@@ -3352,9 +3358,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-07-11 18:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3403,6 +3421,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-07-11 17:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3478,9 +3502,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-07-11 17:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3502,9 +3538,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-11 17:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3589,6 +3637,12 @@
   "alexsmobs:alexsmobs/ghostly_pickaxe": {
     "criteria": {
       "ghostly_pickaxe": "2025-07-11 17:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3712,6 +3766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
       "has_item": "2025-07-11 17:20:05 +0000"
@@ -3727,6 +3787,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-11 18:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3748,6 +3814,12 @@
     },
     "done": true
   },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-07-11 18:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-11 18:03:32 +0000"
@@ -3760,6 +3832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_leggings": {
     "criteria": {
       "has_item": "2025-07-11 18:02:58 +0000"
@@ -3769,6 +3847,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-11 18:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3790,6 +3874,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-07-11 17:20:00 +0000"
@@ -3799,6 +3895,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-11 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },
@@ -3817,6 +3919,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-07-11 18:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-11 18:37:08 +0000"
     },
     "done": true
   },
@@ -3883,6 +3991,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-11 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-11 18:29:15 +0000"
     },
     "done": true
   },

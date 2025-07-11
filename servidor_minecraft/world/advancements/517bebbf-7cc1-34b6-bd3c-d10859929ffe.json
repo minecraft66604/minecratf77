@@ -1339,7 +1339,8 @@
       "cooked_porkchop": "2025-07-11 18:10:15 +0000",
       "cooked_beef": "2025-07-11 01:19:50 +0000",
       "baked_potato": "2025-07-11 17:21:21 +0000",
-      "suspicious_stew": "2025-07-11 18:00:00 +0000"
+      "suspicious_stew": "2025-07-11 18:00:00 +0000",
+      "cooked_rabbit": "2025-07-11 18:35:43 +0000"
     },
     "done": false
   },
@@ -1373,6 +1374,7 @@
       "shrubland": "2025-07-11 02:12:53 +0000",
       "autumnal_maple_forest": "2025-07-11 02:13:12 +0000",
       "muddy_river": "2025-07-11 02:19:15 +0000",
+      "frozen_tundra": "2025-07-11 18:36:14 +0000",
       "rocky_meadow": "2025-07-11 01:24:33 +0000",
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
@@ -1392,6 +1394,7 @@
       "shrubland": "2025-07-11 02:12:53 +0000",
       "autumnal_maple_forest": "2025-07-11 02:13:12 +0000",
       "muddy_river": "2025-07-11 02:19:15 +0000",
+      "frozen_tundra": "2025-07-11 18:36:14 +0000",
       "rocky_meadow": "2025-07-11 01:24:33 +0000",
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
@@ -3408,6 +3411,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-11 18:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-11 18:03:28 +0000"
@@ -3419,6 +3428,12 @@
       "entered_castle": "2025-07-11 17:56:27 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-11 18:28:40 +0000"
+    },
+    "done": true
   },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
