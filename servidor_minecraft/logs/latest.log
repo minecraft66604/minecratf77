@@ -1030,3 +1030,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 16:52:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Sea? Not a Problem]
 [11Jul2025 16:54:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Mine? Mine? Mine?]
 [11Jul2025 16:57:03.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Flying in the Air]
+[11Jul2025 16:58:00.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 16:58:37.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hendrick Van der Decken'/11534, l='ServerLevel[world]', x=-2874.42, y=156.00, z=1412.03] died: Hendrick Van der Decken was slain by JUANCITO
+[11Jul2025 16:59:28.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJLeyend[/127.211.88.39:38939] logged in with entity id 12954 at (103.5, 67.0, 91.5)
+[11Jul2025 16:59:28.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJLeyend joined the game
+[11Jul2025 16:59:29.008] [Server thread/INFO] [Jade/]: Syncing config to JJLeyend (43255a9d-8b25-341b-9d8d-404e84d1907d)
+[11Jul2025 16:59:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJLeyend has made the advancement [Ice and Fire]
+[11Jul2025 17:00:38.802] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=836, y=-26, z=-116}
+[11Jul2025 17:00:59.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJLeyend lost connection: Timed out
+[11Jul2025 17:00:59.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJLeyend left the game
+[11Jul2025 17:01:12.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Timed out
+[11Jul2025 17:01:12.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[11Jul2025 17:01:29.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:59741] logged in with entity id 14420 at (-2696.2177534615544, 73.0, 1402.90592723765)
+[11Jul2025 17:01:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[11Jul2025 17:01:29.325] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[11Jul2025 17:05:58.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[11Jul2025 17:06:03.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Magic Writing]
+[11Jul2025 17:07:08.829] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,alexscaves:main_channel,structure_gel:main,legendary_monsters:main_channel,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,nethers_exorcism_reborn:nethers_exorcism_reborn,born_in_chaos_v1:born_in_chaos_v1,framework:play,curios:main,crittersandcompanions:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,alexsmobs:main_channel,tombstone:tombstone_channel,mca:main,mowziesmobs:net,sophisticatedcore:channel,mahoutsukai:main_channel,ancient_elements:ancient_elements,benssharks:benssharks,geckolib:main,thalassophobia:thalassophobia,waystones:network] rejected their client side version number
+[11Jul2025 17:07:08.830] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Jul2025 17:07:08.845] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6113fa3a[id=<null>,name=JJleyends,properties={},legacy=false] (/127.211.88.39:36373) lost connection: Connection closed - mismatched mod channel list
+[11Jul2025 17:10:26.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyends[/127.211.88.39:42821] logged in with entity id 17553 at (-136.03481423135392, 73.0, 359.69999998807907)
+[11Jul2025 17:10:26.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyends joined the game
+[11Jul2025 17:10:26.921] [Server thread/INFO] [Jade/]: Syncing config to JJleyends (c4820d6d-4092-3236-acb2-f7b4418127e7)
+[11Jul2025 17:10:35.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vaidas'/14568, l='ServerLevel[world]', x=-2639.26, y=71.00, z=1273.75] died, message: 'Vaidas was slain by Zombie Lumberjack'
+[11Jul2025 17:10:35.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vaidas'/14568, l='ServerLevel[world]', x=-2639.26, y=71.00, z=1273.75] died: Vaidas was slain by Zombie Lumberjack
+[11Jul2025 17:11:29.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyends lost connection: Disconnected
+[11Jul2025 17:11:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyends left the game
