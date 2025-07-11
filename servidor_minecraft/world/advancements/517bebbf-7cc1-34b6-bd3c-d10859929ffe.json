@@ -1339,6 +1339,7 @@
       "cooked_porkchop": "2025-07-11 18:10:15 +0000",
       "cooked_beef": "2025-07-11 01:19:50 +0000",
       "baked_potato": "2025-07-11 17:21:21 +0000",
+      "apple": "2025-07-11 18:42:08 +0000",
       "suspicious_stew": "2025-07-11 18:00:00 +0000",
       "cooked_rabbit": "2025-07-11 18:35:43 +0000"
     },
@@ -3420,6 +3421,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-11 18:03:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-07-11 18:47:21 +0000"
     },
     "done": true
   },

@@ -15,6 +15,8 @@
       "minecraft:snowy_taiga": "2025-07-11 02:40:10 +0000",
       "minecraft:cold_ocean": "2025-07-11 01:11:52 +0000",
       "minecraft:forest": "2025-07-11 00:51:05 +0000",
+      "minecraft:lush_caves": "2025-07-11 18:43:38 +0000",
+      "minecraft:ocean": "2025-07-11 18:43:24 +0000",
       "minecraft:plains": "2025-07-11 00:13:17 +0000"
     },
     "done": false
@@ -1233,6 +1235,7 @@
       "autumnal_maple_forest": "2025-07-11 01:33:11 +0000",
       "muddy_river": "2025-07-11 01:34:21 +0000",
       "frozen_tundra": "2025-07-11 01:27:00 +0000",
+      "redstone_caves": "2025-07-11 18:44:55 +0000",
       "poppy_fields": "2025-07-11 01:08:05 +0000",
       "grassy_beach": "2025-07-11 01:08:31 +0000",
       "rocky_meadow": "2025-07-11 01:07:50 +0000",
@@ -3266,6 +3269,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-11 18:03:57 +0000"
@@ -3299,6 +3314,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-11 18:03:57 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
+    "criteria": {
+      "has_item": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },
@@ -3352,9 +3373,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-07-11 18:15:39 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },
@@ -3385,6 +3418,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-07-11 17:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-11 18:41:08 +0000"
     },
     "done": true
   },
@@ -3448,6 +3487,18 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing_from_core": {
+    "criteria": {
+      "has_item": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
       "has_item": "2025-07-11 17:19:54 +0000"
@@ -3469,6 +3520,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-11 18:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },
@@ -3496,6 +3553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_chestplate": {
     "criteria": {
       "has_item": "2025-07-11 18:02:58 +0000"
@@ -3520,6 +3583,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-11 18:44:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-11 17:12:44 +0000"
@@ -3538,6 +3607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-07-11 18:29:15 +0000"
@@ -3550,6 +3625,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-07-11 18:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-11 18:29:15 +0000"
@@ -3559,6 +3640,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-11 18:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
     },
     "done": true
   },
@@ -3583,6 +3670,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-11 18:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
     },
     "done": true
   },
@@ -3640,6 +3733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-11 18:29:15 +0000"
@@ -3649,6 +3748,12 @@
   "alexsmobs:alexsmobs/crocodile_chestplate": {
     "criteria": {
       "crocodile_chestplate": "2025-07-11 17:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },
@@ -3682,6 +3787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-11 18:03:57 +0000"
@@ -3709,6 +3820,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-11 18:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },
@@ -3772,6 +3889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
       "has_item": "2025-07-11 17:20:05 +0000"
@@ -3814,6 +3937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:very_hot": {
     "criteria": {
       "very_hot": "2025-07-11 18:33:22 +0000"
@@ -3829,6 +3958,12 @@
   "nethers_exorcism_reborn:nether_exorcism": {
     "criteria": {
       "nether_exorcism_0": "2025-07-11 18:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },
@@ -3865,6 +4000,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-11 17:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-11 18:39:45 +0000"
     },
     "done": true
   },
@@ -3949,6 +4090,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-11 18:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-11 18:41:02 +0000"
     },
     "done": true
   },

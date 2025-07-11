@@ -1137,3 +1137,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 18:35:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Hot Stuff]
 [11Jul2025 18:37:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Those Were the Days]
 [11Jul2025 18:37:17.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [The Wind Darkening]
+[11Jul2025 18:41:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [War Pigs]
+[11Jul2025 18:42:25.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tetje'/82479, l='ServerLevel[world]', x=2252.37, y=101.56, z=-1400.28] died, message: 'Tetje suffocated in a wall'
+[11Jul2025 18:42:45.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[11Jul2025 18:43:05.900] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[11Jul2025 18:43:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[11Jul2025 18:44:15.426] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 18:45:07.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 18:45:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Nether Exorcism]
+[11Jul2025 18:45:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [We Need to Go Deeper]
+[11Jul2025 18:45:21.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -8.406212299960771,0.0,5.690969746692872
+[11Jul2025 18:45:21.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! -10.203294795518104,1.4186640077748365,0.7129188994081233
+[11Jul2025 18:45:21.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[11Jul2025 18:45:46.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 18:45:46.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 18:46:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has completed the challenge [Is it Hot in here?]
+[11Jul2025 18:46:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[11Jul2025 18:47:07.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[11Jul2025 18:47:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[11Jul2025 18:47:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[11Jul2025 18:47:27.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[11Jul2025 18:50:53.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:44403] logged in with entity id 89884 at (59.01368151982308, 37.0, 67.26218674560792)
+[11Jul2025 18:50:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[11Jul2025 18:50:53.769] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
