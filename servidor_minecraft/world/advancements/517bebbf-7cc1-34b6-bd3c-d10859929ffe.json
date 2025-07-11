@@ -1557,9 +1557,11 @@
       "minecraft:vindicator": "2025-07-11 01:50:57 +0000",
       "minecraft:magma_cube": "2025-07-11 19:32:49 +0000",
       "minecraft:spider": "2025-07-11 01:55:04 +0000",
+      "minecraft:creeper": "2025-07-11 20:21:50 +0000",
       "minecraft:husk": "2025-07-11 17:22:35 +0000",
       "minecraft:enderman": "2025-07-11 19:48:55 +0000",
-      "minecraft:zombie": "2025-07-11 01:31:49 +0000"
+      "minecraft:zombie": "2025-07-11 01:31:49 +0000",
+      "minecraft:zombie_villager": "2025-07-11 20:26:12 +0000"
     },
     "done": false
   },
@@ -3670,6 +3672,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-07-11 20:30:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-11 20:11:11 +0000"
@@ -3715,6 +3723,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-11 20:11:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-11 20:29:58 +0000"
     },
     "done": true
   },

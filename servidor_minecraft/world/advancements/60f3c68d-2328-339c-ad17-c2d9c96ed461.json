@@ -788,6 +788,7 @@
     "criteria": {
       "chicken": "2025-07-11 17:47:07 +0000",
       "bread": "2025-07-11 17:47:52 +0000",
+      "golden_apple": "2025-07-11 20:25:36 +0000",
       "rotten_flesh": "2025-07-11 18:01:43 +0000"
     },
     "done": false
@@ -1510,6 +1511,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-11 20:08:23 +0000",
       "minecraft:skeleton": "2025-07-11 19:31:35 +0000",
+      "minecraft:spider": "2025-07-11 20:22:27 +0000",
       "minecraft:zombie": "2025-07-11 17:57:29 +0000"
     },
     "done": false
@@ -2147,7 +2149,14 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-11 20:02:04 +0000",
-      "mycotoxic_undergrowth": "2025-07-11 18:45:22 +0000"
+      "muddy_river": "2025-07-11 20:23:11 +0000",
+      "willow_forest": "2025-07-11 20:26:54 +0000",
+      "grassy_beach": "2025-07-11 20:25:55 +0000",
+      "mycotoxic_undergrowth": "2025-07-11 18:45:22 +0000",
+      "maple_forest": "2025-07-11 20:23:13 +0000",
+      "temperate_grove": "2025-07-11 20:26:40 +0000",
+      "cold_river": "2025-07-11 20:23:10 +0000",
+      "gravel_beach": "2025-07-11 20:23:43 +0000"
     },
     "done": false
   },
@@ -2493,9 +2502,21 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-07-11 20:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-07-11 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-11 20:21:29 +0000"
     },
     "done": true
   },
@@ -2505,9 +2526,37 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 20:26:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 20:26:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-11 20:26:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 20:26:00 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_6": "2025-07-11 20:11:06 +0000"
+      "trickor_treat_0": "2025-07-11 20:15:50 +0000",
+      "trickor_treat_2": "2025-07-11 20:15:33 +0000",
+      "trickor_treat_3": "2025-07-11 20:15:39 +0000",
+      "trickor_treat_6": "2025-07-11 20:11:06 +0000",
+      "trickor_treat_7": "2025-07-11 20:16:00 +0000"
     },
     "done": false
   },
@@ -2531,7 +2580,14 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "shrubland": "2025-07-11 20:02:04 +0000"
+      "shrubland": "2025-07-11 20:02:04 +0000",
+      "muddy_river": "2025-07-11 20:23:11 +0000",
+      "willow_forest": "2025-07-11 20:26:54 +0000",
+      "grassy_beach": "2025-07-11 20:25:55 +0000",
+      "maple_forest": "2025-07-11 20:23:13 +0000",
+      "temperate_grove": "2025-07-11 20:26:40 +0000",
+      "cold_river": "2025-07-11 20:23:10 +0000",
+      "gravel_beach": "2025-07-11 20:23:43 +0000"
     },
     "done": false
   },

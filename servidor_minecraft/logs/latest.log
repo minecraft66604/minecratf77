@@ -1251,3 +1251,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 20:08:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Ambush]
 [11Jul2025 20:08:27.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Voluntary Exile]
 [11Jul2025 20:08:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Best Friends Forever]
+[11Jul2025 20:18:22.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved wrongly!
+[11Jul2025 20:21:28.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 20:21:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Sweet Dreams]
+[11Jul2025 20:22:46.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[11Jul2025 20:22:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Alex's Caves]
+[11Jul2025 20:23:06.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[11Jul2025 20:23:13.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Once Upon a Cave]
+[11Jul2025 20:23:36.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[11Jul2025 20:24:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[11Jul2025 20:25:40.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved wrongly!
+[11Jul2025 20:25:42.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 20:26:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has reached the goal [Strong or Careful]
+[11Jul2025 20:26:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd withered away whilst fighting Nightmare Stalker
+[11Jul2025 20:26:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Your First Grave]
+[11Jul2025 20:26:00.363] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 20:26:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has reached the goal [Here They Come]
+[11Jul2025 20:27:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was impaled by Drowned
+[11Jul2025 20:27:33.822] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 20:29:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [Dark Creator]
+[11Jul2025 20:32:30.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Ferrous Wroughtnaut
+[11Jul2025 20:32:30.407] [Server thread/INFO] [tombstone/]: The player JUANCITO has successfully been saved
+[11Jul2025 20:33:56.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was slain by Mr. Pumpkin
+[11Jul2025 20:33:56.455] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
