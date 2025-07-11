@@ -1160,3 +1160,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 18:50:53.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:44403] logged in with entity id 89884 at (59.01368151982308, 37.0, 67.26218674560792)
 [11Jul2025 18:50:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
 [11Jul2025 18:50:53.769] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[11Jul2025 18:52:17.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[11Jul2025 18:52:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[11Jul2025 18:55:48.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Black or White]
+[11Jul2025 18:55:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [A Small Cemetery]
+[11Jul2025 18:58:21.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [First Prayer]
+[11Jul2025 18:59:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Greed may lead to loss]
+[11Jul2025 19:05:09.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Strong or Careful]
+[11Jul2025 19:05:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO drowned
+[11Jul2025 19:05:09.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Your First Grave]
+[11Jul2025 19:05:09.409] [Server thread/INFO] [tombstone/]: The player JUANCITO has successfully been saved
+[11Jul2025 19:05:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Here They Come]
+[11Jul2025 19:06:46.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:09:12.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:54919] logged in with entity id 98459 at (40.15350785265149, 47.0, 63.46629600085991)
+[11Jul2025 19:09:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[11Jul2025 19:09:12.326] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[11Jul2025 19:09:35.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:09:36.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:10:12.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Ice Bucket Challenge]
+[11Jul2025 19:10:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Cursed Bone Valley]
+[11Jul2025 19:10:58.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=75, z=761} BlockPos{x=-74, y=74, z=761}
+[11Jul2025 19:11:20.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Genetically Advanced]
