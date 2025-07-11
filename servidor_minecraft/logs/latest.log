@@ -1181,3 +1181,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 19:10:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Cursed Bone Valley]
 [11Jul2025 19:10:58.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=75, z=761} BlockPos{x=-74, y=74, z=761}
 [11Jul2025 19:11:20.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Genetically Advanced]
+[11Jul2025 19:12:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Nether Exorcism]
+[11Jul2025 19:12:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [We Need to Go Deeper]
+[11Jul2025 19:12:04.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
+[11Jul2025 19:14:09.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Timed out
+[11Jul2025 19:14:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[11Jul2025 19:14:27.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:37921] logged in with entity id 102425 at (41.87948450571398, 73.41999998688698, 180.97029928240775)
+[11Jul2025 19:14:27.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[11Jul2025 19:14:27.741] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[11Jul2025 19:16:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Hidden in the Depths]
+[11Jul2025 19:17:42.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[11Jul2025 19:17:42.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[11Jul2025 19:18:16.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 19:18:55.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:40573] logged in with entity id 104216 at (119.06012367813058, 58.0, 210.50570045787467)
+[11Jul2025 19:18:55.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[11Jul2025 19:18:55.029] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[11Jul2025 19:20:43.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Those Were the Days]
+[11Jul2025 19:21:06.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Eternal Expedition]
+[11Jul2025 19:30:21.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Bone-full Wasp]
+[11Jul2025 19:31:53.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has reached the goal [Crystal Pioneer]
+[11Jul2025 19:32:01.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Straddle My Ol' Saddle]
