@@ -1094,3 +1094,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Jul2025 23:46:02.315] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
 [11Jul2025 23:47:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Minecraft Comes Alive]
 [11Jul2025 23:47:52.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[11Jul2025 23:48:24.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Jul2025 23:48:43.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[11Jul2025 23:49:00.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[11Jul2025 23:49:59.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Mine? Mine? Mine?]
+[11Jul2025 23:50:28.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30649, l='ServerLevel[world]', x=-1290.50, y=51.00, z=558.50]
+[11Jul2025 23:50:30.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[11Jul2025 23:52:05.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Jul2025 23:52:21.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 2.9917686453161423,-2.3526681077517253,-11.78187543238721
+[11Jul2025 23:52:22.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has reached the goal [Opposites Attract]
+[11Jul2025 23:52:22.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[11Jul2025 23:52:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was turned into gorgonzola by Gorgon
+[11Jul2025 23:52:23.510] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[11Jul2025 23:52:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Here They Come]
+[11Jul2025 23:52:42.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4389ms or 87 ticks behind
+[11Jul2025 23:52:59.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[11Jul2025 23:53:21.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Fire Dragon
+[11Jul2025 23:53:21.833] [Server thread/INFO] [tombstone/]: The player JUANCITO has successfully been saved
+[11Jul2025 23:53:21.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11Jul2025 23:53:30.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [A Fast Comeback]
+[11Jul2025 23:53:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Clash of the Titans]
+[11Jul2025 23:54:02.084] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:54:04.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1247, y=77, z=390} BlockPos{x=-1247, y=75, z=389}
+[11Jul2025 23:54:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Chain Death]
+[11Jul2025 23:54:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Fire Dragon
+[11Jul2025 23:54:19.177] [Server thread/INFO] [tombstone/]: The player JUANCITO has successfully been saved
+[11Jul2025 23:54:20.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11Jul2025 23:54:41.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jul2025 23:54:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Knowledge of Death]
+[11Jul2025 23:54:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [A Strange Grave Dust]
+[11Jul2025 23:55:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Isn't It Iron Pick]
+[11Jul2025 23:55:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was frozen by Ice Dragon
+[11Jul2025 23:55:40.481] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 23:55:47.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1246, y=76, z=400} BlockPos{x=-1246, y=74, z=401}
+[11Jul2025 23:55:48.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1245, y=75, z=400} BlockPos{x=-1246, y=74, z=400}
+[11Jul2025 23:56:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> zzz
+[11Jul2025 23:56:27.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> zzzz
+[11Jul2025 23:56:27.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> zz
+[11Jul2025 23:56:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[11Jul2025 23:56:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[11Jul2025 23:56:38.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1271, y=64, z=373} BlockPos{x=-1270, y=64, z=373}
+[11Jul2025 23:56:38.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1271, y=64, z=373} BlockPos{x=-1270, y=64, z=373}
+[11Jul2025 23:56:38.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:38.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:39.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:39.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:39.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=65, z=374} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:39.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=64, z=378} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:39.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=64, z=378} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:56:39.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1269, y=64, z=378} BlockPos{x=-1269, y=64, z=373}
+[11Jul2025 23:57:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was turned to ice by Ice Dragon
+[11Jul2025 23:57:06.493] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 23:57:36.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has reached the goal [Chain Death]
+[11Jul2025 23:57:36.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was turned to ice by Ice Dragon
+[11Jul2025 23:57:36.099] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[11Jul2025 23:58:43.596] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[11Jul2025 23:58:45.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[11Jul2025 23:58:45.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[11Jul2025 23:58:46.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Cosmic Discoverer]
+[11Jul2025 23:58:50.719] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe

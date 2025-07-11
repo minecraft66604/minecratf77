@@ -795,10 +795,12 @@
       "cooked_porkchop": "2025-07-11 23:38:18 +0000",
       "chicken": "2025-07-11 17:47:07 +0000",
       "sweet_berries": "2025-07-11 23:26:48 +0000",
+      "cooked_beef": "2025-07-11 23:57:00 +0000",
       "mutton": "2025-07-11 23:27:39 +0000",
       "bread": "2025-07-11 17:47:52 +0000",
       "golden_apple": "2025-07-11 20:25:36 +0000",
-      "rotten_flesh": "2025-07-11 18:01:43 +0000"
+      "rotten_flesh": "2025-07-11 18:01:43 +0000",
+      "suspicious_stew": "2025-07-11 23:48:02 +0000"
     },
     "done": false
   },
@@ -3487,7 +3489,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_watch_tower": "2025-07-11 23:41:53 +0000"
+      "entered_watch_tower": "2025-07-11 23:41:53 +0000",
+      "entered_ruined_building": "2025-07-11 23:47:42 +0000"
     },
     "done": false
   },
@@ -3500,6 +3503,42 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-07-11 23:44:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-11 23:51:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 23:57:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-11 23:57:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-07-11 23:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-11 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-11 23:51:49 +0000"
     },
     "done": true
   },
