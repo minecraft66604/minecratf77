@@ -1340,6 +1340,7 @@
       "cooked_beef": "2025-07-11 01:19:50 +0000",
       "baked_potato": "2025-07-11 17:21:21 +0000",
       "apple": "2025-07-11 18:42:08 +0000",
+      "golden_apple": "2025-07-11 19:31:49 +0000",
       "suspicious_stew": "2025-07-11 18:00:00 +0000",
       "cooked_rabbit": "2025-07-11 18:35:43 +0000"
     },
@@ -1554,6 +1555,7 @@
       "minecraft:pillager": "2025-07-11 01:49:52 +0000",
       "minecraft:skeleton": "2025-07-11 01:55:19 +0000",
       "minecraft:vindicator": "2025-07-11 01:50:57 +0000",
+      "minecraft:magma_cube": "2025-07-11 19:32:49 +0000",
       "minecraft:spider": "2025-07-11 01:55:04 +0000",
       "minecraft:husk": "2025-07-11 17:22:35 +0000",
       "minecraft:zombie": "2025-07-11 01:31:49 +0000"
@@ -3565,6 +3567,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-07-11 19:33:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-11 19:21:00 +0000"
@@ -3574,6 +3582,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-11 19:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-11 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-11 19:32:01 +0000"
     },
     "done": true
   },
@@ -3589,15 +3609,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-11 19:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-11 19:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-11 19:21:00 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-11 19:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-11 19:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-11 19:33:19 +0000"
     },
     "done": true
   },

@@ -3340,7 +3340,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-11 19:34:38 +0000",
       "minecraft:nether_wastes": "2025-07-11 19:12:07 +0000",
+      "minecraft:soul_sand_valley": "2025-07-11 19:35:26 +0000",
       "minecraft:basalt_deltas": "2025-07-11 19:24:01 +0000"
     },
     "done": false
@@ -3438,6 +3440,12 @@
   "regions_unexplored:recipes/decorations/golden_larch_shrub": {
     "criteria": {
       "has_golden_larch_sapling": "2025-07-11 17:07:07 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:bi_ohazardou_sd_eltas": {
+    "criteria": {
+      "bi_ohazardou_sd_eltas_0": "2025-07-11 19:34:07 +0000"
     },
     "done": true
   },
@@ -4564,6 +4572,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-07-11 17:12:44 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:encounterhellstinger": {
+    "criteria": {
+      "encounterhellstinger_0": "2025-07-11 19:30:21 +0000"
     },
     "done": true
   },
