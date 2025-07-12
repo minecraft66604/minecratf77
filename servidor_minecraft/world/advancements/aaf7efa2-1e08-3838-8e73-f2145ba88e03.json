@@ -13,11 +13,14 @@
       "minecraft:beach": "2025-07-11 01:11:40 +0000",
       "minecraft:river": "2025-07-11 01:08:23 +0000",
       "minecraft:snowy_plains": "2025-07-11 20:42:01 +0000",
+      "minecraft:stony_shore": "2025-07-12 00:26:16 +0000",
       "minecraft:snowy_taiga": "2025-07-11 02:40:10 +0000",
       "minecraft:cold_ocean": "2025-07-11 01:11:52 +0000",
       "minecraft:forest": "2025-07-11 00:51:05 +0000",
       "minecraft:lush_caves": "2025-07-11 18:43:38 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-12 00:34:41 +0000",
       "minecraft:ocean": "2025-07-11 18:43:24 +0000",
+      "minecraft:deep_dark": "2025-07-12 00:33:33 +0000",
       "minecraft:plains": "2025-07-11 00:13:17 +0000"
     },
     "done": false
@@ -1244,6 +1247,7 @@
       "redstone_caves": "2025-07-11 18:44:55 +0000",
       "poppy_fields": "2025-07-11 01:08:05 +0000",
       "grassy_beach": "2025-07-11 01:08:31 +0000",
+      "scorching_caves": "2025-07-12 00:33:31 +0000",
       "rocky_meadow": "2025-07-11 01:07:50 +0000",
       "mycotoxic_undergrowth": "2025-07-11 18:01:13 +0000",
       "flower_fields": "2025-07-11 01:07:41 +0000",
@@ -4165,7 +4169,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-07-11 18:44:55 +0000"
+      "redstone_caves": "2025-07-11 18:44:55 +0000",
+      "scorching_caves": "2025-07-12 00:33:31 +0000"
     },
     "done": false
   },
@@ -5122,6 +5127,42 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-11 23:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-11 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-11 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 23:53:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 23:54:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-11 23:57:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
@@ -5131,12 +5172,6 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2025-07-11 23:57:36 +0000"
     },
     "done": true
   },
@@ -5320,12 +5355,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 23:53:30 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
@@ -5392,12 +5421,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-07-11 23:53:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
@@ -5431,12 +5454,6 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 23:54:18 +0000"
     },
     "done": true
   },
@@ -5518,12 +5535,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-11 23:53:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
@@ -5548,12 +5559,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-07-11 23:36:23 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
@@ -5563,6 +5568,66 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-11 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-12 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-12 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-12 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-12 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-12 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-12 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:crystal_pioneer": {
+    "criteria": {
+      "crystal_pioneer": "2025-07-12 00:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-12 01:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-12 01:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-12 01:04:39 +0000"
     },
     "done": true
   },

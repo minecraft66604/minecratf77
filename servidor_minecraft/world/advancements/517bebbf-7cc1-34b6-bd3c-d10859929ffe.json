@@ -91,6 +91,7 @@
       "minecraft:forest": "2025-07-11 01:10:25 +0000",
       "minecraft:ocean": "2025-07-11 01:21:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-11 23:54:31 +0000",
+      "minecraft:meadow": "2025-07-12 00:42:39 +0000",
       "minecraft:plains": "2025-07-11 01:08:23 +0000"
     },
     "done": false
@@ -1344,9 +1345,11 @@
       "cooked_beef": "2025-07-11 01:19:50 +0000",
       "baked_potato": "2025-07-11 17:21:21 +0000",
       "apple": "2025-07-11 18:42:08 +0000",
+      "pumpkin_pie": "2025-07-12 01:22:50 +0000",
       "golden_apple": "2025-07-11 19:31:49 +0000",
       "suspicious_stew": "2025-07-11 18:00:00 +0000",
-      "cooked_rabbit": "2025-07-11 18:35:43 +0000"
+      "cooked_rabbit": "2025-07-11 18:35:43 +0000",
+      "cooked_salmon": "2025-07-12 01:39:47 +0000"
     },
     "done": false
   },
@@ -1386,13 +1389,16 @@
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
       "frozen_pine_taiga": "2025-07-11 18:25:56 +0000",
+      "magnolia_highlands": "2025-07-12 01:26:19 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "glistering_meadow": "2025-07-11 19:16:18 +0000",
       "cold_boreal_taiga": "2025-07-11 02:54:36 +0000",
       "temperate_grove": "2025-07-11 02:19:06 +0000",
       "cold_river": "2025-07-11 02:19:14 +0000",
+      "grassland": "2025-07-12 01:37:14 +0000",
       "gravel_beach": "2025-07-11 02:13:32 +0000",
-      "golden_boreal_taiga": "2025-07-11 17:41:15 +0000"
+      "golden_boreal_taiga": "2025-07-11 17:41:15 +0000",
+      "lupine_plains": "2025-07-12 01:26:11 +0000"
     },
     "done": false
   },
@@ -1407,12 +1413,15 @@
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
       "frozen_pine_taiga": "2025-07-11 18:25:56 +0000",
+      "magnolia_highlands": "2025-07-12 01:26:19 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "cold_boreal_taiga": "2025-07-11 02:54:36 +0000",
       "temperate_grove": "2025-07-11 02:19:06 +0000",
       "cold_river": "2025-07-11 02:19:14 +0000",
+      "grassland": "2025-07-12 01:37:14 +0000",
       "gravel_beach": "2025-07-11 02:13:32 +0000",
-      "golden_boreal_taiga": "2025-07-11 17:41:15 +0000"
+      "golden_boreal_taiga": "2025-07-11 17:41:15 +0000",
+      "lupine_plains": "2025-07-12 01:26:11 +0000"
     },
     "done": false
   },
@@ -1421,6 +1430,7 @@
       "entered_tower_of_the_undead": "2025-07-11 01:38:28 +0000",
       "entered_stables": "2025-07-11 17:29:44 +0000",
       "entered_fishing_ship": "2025-07-11 02:16:12 +0000",
+      "entered_druid_circle": "2025-07-12 00:20:50 +0000",
       "entered_castle": "2025-07-11 17:56:27 +0000",
       "entered_watch_tower": "2025-07-11 02:53:33 +0000",
       "entered_ruined_building": "2025-07-11 01:24:44 +0000"
@@ -5036,6 +5046,306 @@
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-07-11 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-12 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-12 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-12 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2025-07-12 00:23:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-12 00:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-12 00:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-12 00:28:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-12 00:30:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 00:31:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 00:31:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-12 00:33:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 00:33:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-07-12 00:40:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-12 00:40:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-12 00:40:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-12 00:40:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-07-12 00:40:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-07-12 00:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-12 00:44:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-12 00:44:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-07-12 00:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-12 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-12 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-07-12 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-12 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-07-12 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-12 00:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-07-12 00:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-12 00:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-12 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-07-12 00:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-07-12 00:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-12 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-12 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-12 01:41:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-07-12 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-07-12 00:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-12 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-07-12 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed": "2025-07-12 01:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-12 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-07-12 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-07-12 00:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-12 01:11:04 +0000"
     },
     "done": true
   },
