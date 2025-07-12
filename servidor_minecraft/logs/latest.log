@@ -997,3 +997,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [12Jul2025 21:07:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
 [12Jul2025 21:07:58.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
 [12Jul2025 21:16:39.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
+[12Jul2025 21:26:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
+[12Jul2025 21:31:28.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Jul2025 21:33:05.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
