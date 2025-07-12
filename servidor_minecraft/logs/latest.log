@@ -1004,3 +1004,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [12Jul2025 23:24:45.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:57187] logged in with entity id 1931 at (-1581.3458825277405, 83.0, 805.1742699473219)
 [12Jul2025 23:24:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
 [12Jul2025 23:24:45.535] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[12Jul2025 23:31:35.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Take Aim]
+[12Jul2025 23:35:36.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Cave Spider
+[12Jul2025 23:35:36.728] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[12Jul2025 23:36:26.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Jul2025 23:39:02.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
