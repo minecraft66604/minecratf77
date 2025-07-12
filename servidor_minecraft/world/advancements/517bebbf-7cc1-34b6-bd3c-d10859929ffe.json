@@ -5003,12 +5003,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-07-11 23:42:15 +0000"
-    },
-    "done": true
-  },
   "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
     "criteria": {
       "has_glow_goop": "2025-07-11 23:38:44 +0000"
@@ -5021,12 +5015,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-07-11 23:42:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-11 23:40:54 +0000"
@@ -5036,6 +5024,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-11 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-07-11 23:42:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-11 23:42:19 +0000"
     },
     "done": true
   },
