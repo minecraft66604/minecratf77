@@ -1009,3 +1009,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [12Jul2025 23:35:36.728] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
 [12Jul2025 23:36:26.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [12Jul2025 23:39:02.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Jul2025 23:40:47.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:49793] logged in with entity id 5064 at (-2132.7907849809962, 101.0, -699.1978255434309)
+[12Jul2025 23:40:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[12Jul2025 23:40:47.926] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[12Jul2025 23:49:20.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Jul2025 23:55:09.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Jul2025 23:55:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Best Friends Forever]
+[12Jul2025 23:58:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Pic-A-Nic Basket?]
+[12Jul2025 23:59:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Dragonslayer]
