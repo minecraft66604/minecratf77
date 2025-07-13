@@ -1152,3 +1152,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Jul2025 17:46:35.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
 [13Jul2025 17:46:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
 [13Jul2025 17:46:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[13Jul2025 17:47:35.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Jul2025 17:47:56.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54632, l='ServerLevel[world]', x=2831.62, y=74.66, z=4716.29]
+[13Jul2025 17:47:56.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54636, l='ServerLevel[world]', x=2829.79, y=74.39, z=4721.07]
+[13Jul2025 17:47:56.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54637, l='ServerLevel[world]', x=2828.90, y=73.83, z=4721.94]
+[13Jul2025 17:47:56.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54638, l='ServerLevel[world]', x=2831.83, y=74.66, z=4722.17]
+[13Jul2025 17:47:56.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54639, l='ServerLevel[world]', x=2832.00, y=74.25, z=4723.48]
+[13Jul2025 17:47:56.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54640, l='ServerLevel[world]', x=2831.84, y=73.97, z=4724.44]
+[13Jul2025 17:47:56.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/54641, l='ServerLevel[world]', x=2831.64, y=73.69, z=4725.67]
+[13Jul2025 17:47:57.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:36253] logged in with entity id 55121 at (-2129.529280986053, 90.5625, -714.953048153953)
+[13Jul2025 17:47:57.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[13Jul2025 17:47:57.236] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[13Jul2025 17:48:13.868] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[13Jul2025 17:48:31.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! 0.6789219224401677,-0.756759288177264,10.100076788207843
+[13Jul2025 17:48:57.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:49:27.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Timed out
+[13Jul2025 17:49:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[13Jul2025 17:49:28.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:42857] logged in with entity id 57081 at (2960.4465200203676, 79.25220334025373, 4958.765011526183)
+[13Jul2025 17:49:28.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[13Jul2025 17:49:28.131] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[13Jul2025 17:49:33.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:49:33.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:51:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[13Jul2025 17:51:57.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to -Azumi-]
+[13Jul2025 17:52:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to JJleyendsxd]
+[13Jul2025 17:52:46.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was slain by Umvuthi, the Sunbird
+[13Jul2025 17:52:46.854] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[13Jul2025 17:53:23.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:53:40.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! -2.282060605170045,0.03476426858696868,9.816162504029307
+[13Jul2025 17:55:02.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! 0.9676501139242646,0.5800000131130219,-9.98167628070405
+[13Jul2025 17:56:18.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> Bordon
+[13Jul2025 17:56:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was slain by Umvuthana
+[13Jul2025 17:56:23.708] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[13Jul2025 17:56:26.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUANCITO> ou
+[13Jul2025 17:56:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> como se hace el collar para el dragon
+[13Jul2025 17:56:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUANCITO> con tres cadena
+[13Jul2025 17:57:16.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to -Azumi-]

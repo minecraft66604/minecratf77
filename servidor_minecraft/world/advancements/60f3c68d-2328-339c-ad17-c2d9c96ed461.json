@@ -3559,7 +3559,8 @@
       "entered_druid_circle": "2025-07-12 01:36:18 +0000",
       "entered_watch_tower": "2025-07-11 23:41:53 +0000",
       "entered_sunken_shrine": "2025-07-12 01:25:24 +0000",
-      "entered_ruined_building": "2025-07-11 23:47:42 +0000"
+      "entered_ruined_building": "2025-07-11 23:47:42 +0000",
+      "entered_desert_tomb": "2025-07-13 17:47:22 +0000"
     },
     "done": false
   },
@@ -5910,12 +5911,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2025-07-13 17:43:22 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/orange_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 17:35:34 +0000"
@@ -5967,12 +5962,6 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-13 17:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-13 17:36:12 +0000"
     },
     "done": true
   },
@@ -6033,6 +6022,24 @@
   "mca:recipes/decorations/red_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-13 17:36:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-07-13 17:43:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/socotra_sapling_from_socotra_shrub": {
+    "criteria": {
+      "has_socotra_shrub": "2025-07-13 17:51:56 +0000"
     },
     "done": true
   },
