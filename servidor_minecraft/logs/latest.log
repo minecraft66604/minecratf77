@@ -9046,3 +9046,68 @@
 [13Jul2025 01:23:09.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -10.77685138123968,-0.7531999805212024,-1.384080243595463
 [13Jul2025 01:23:09.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
 [13Jul2025 01:23:31.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[13Jul2025 01:23:58.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[13Jul2025 01:24:03.993] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 01:24:19.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6318ms or 126 ticks behind
+[13Jul2025 01:24:36.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[13Jul2025 01:25:00.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Jul2025 01:25:18.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Jul2025 01:25:27.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[13Jul2025 01:25:27.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[13Jul2025 01:25:37.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3788ms or 75 ticks behind
+[13Jul2025 01:25:56.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[13Jul2025 01:25:56.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 9.79526277308014,-1.9819924546027323E-7,3.326998465044653
+[13Jul2025 01:25:56.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 10.10776707714922,-1.9970398312807447E-7,3.4053402630597702
+[13Jul2025 01:25:56.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 10.38902094336072,-2.0072501172307966E-7,3.475847879405592
+[13Jul2025 01:25:56.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 10.642149416245502,-2.0129947841951434E-7,3.5393047324355393
+[13Jul2025 01:25:56.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 10.869965035806672,-2.0149189339235818E-7,3.596415898649866
+[13Jul2025 01:25:56.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.074999087980359,-2.0138197953656345E-7,3.64781594688111
+[13Jul2025 01:25:56.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! 9.491307875801908,0.369373660269531,3.3657221584894614
+[13Jul2025 01:25:56.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.259529730048143,-2.0105433407024975E-7,3.694075989063549
+[13Jul2025 01:25:56.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.425607303509423,-2.0059027860952483E-7,3.735710025925073
+[13Jul2025 01:25:56.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.575077115664953,-2.000619900854872E-7,3.7731806581077763
+[13Jul2025 01:25:56.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.709599943041212,-1.995288698708464E-7,3.806904226178631
+[13Jul2025 01:25:56.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.830670484472648,-1.9903587400449396E-7,3.8372554366383156
+[13Jul2025 01:25:56.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 11.93963396887466,-1.986134208209478E-7,3.8645715253283015
+[13Jul2025 01:25:56.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 12.037701102238316,-1.982785349241567E-7,3.8891560044980906
+[13Jul2025 01:25:56.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 12.125961519927387,-1.9803680828545112E-7,3.9112820351647315
+[13Jul2025 01:25:56.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 12.205395893743571,-1.9788478056170788E-7,3.931195462237156
+[13Jul2025 01:25:56.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 12.276886828284205,-1.9781250415462637E-7,3.9491175461275816
+[13Jul2025 01:25:56.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 12.3412286676662,-1.9780596716145737E-7,3.9652474212016386
+[13Jul2025 01:25:56.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RODSQUARE) moved too quickly! 12.399136321575952,-1.9784927474120195E-7,3.979764308383892
+[13Jul2025 01:26:00.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Ahoy Captain]
+[13Jul2025 01:26:50.289] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[13Jul2025 01:27:03.351] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[13Jul2025 01:27:07.207] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Jul2025 01:27:15.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Tie me to the Mast]
+[13Jul2025 01:27:24.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[13Jul2025 01:27:24.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[13Jul2025 01:27:45.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Life turned out to be a comedy]
+[13Jul2025 01:27:51.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:59151] logged in with entity id 116225 at (-2527.568613154708, 78.0, 1306.6474361301277)
+[13Jul2025 01:27:51.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[13Jul2025 01:27:51.289] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[13Jul2025 01:30:34.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[13Jul2025 01:30:34.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[13Jul2025 01:30:40.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:54907] logged in with entity id 118706 at (-2131.409508216606, 113.0, -682.3070599632778)
+[13Jul2025 01:30:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[13Jul2025 01:30:40.350] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[13Jul2025 01:31:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
+[13Jul2025 01:32:06.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Fortuitous Militia]
+[13Jul2025 01:32:13.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the weather to rain & thunder]
+[13Jul2025 01:35:11.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[13Jul2025 01:37:49.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 01:38:53.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 01:39:51.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Ice Dragon
+[13Jul2025 01:39:51.771] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[13Jul2025 01:41:59.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 01:42:06.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Best Friends Forever]
+[13Jul2025 01:42:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[13Jul2025 01:42:40.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Dragon Commander]
+[13Jul2025 01:42:42.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [An Ear-Shattering Roar]
+[13Jul2025 01:42:54.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 01:43:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[13Jul2025 01:43:56.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [The Song of the Dragons]
+[13Jul2025 01:44:14.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[13Jul2025 01:44:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[13Jul2025 01:44:28.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 01:44:29.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

@@ -5960,36 +5960,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/birch_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-13 00:33:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-07-13 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2025-07-13 00:25:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-07-13 00:21:55 +0000"
@@ -6002,21 +5972,33 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/username_logger": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_redstone": "2025-07-13 00:41:50 +0000"
+      "has_iron_block": "2025-07-13 00:24:19 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
-      "has_diamond_backpack": "2025-07-13 00:37:23 +0000"
+      "has_material": "2025-07-13 00:24:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
-      "has_redstone": "2025-07-13 00:41:50 +0000"
+      "has_material": "2025-07-13 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-13 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-13 00:24:19 +0000"
     },
     "done": true
   },
@@ -6026,15 +6008,33 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/portable_tune_player": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "has_redstone": "2025-07-13 00:41:50 +0000"
+      "has_carved_pumpkin": "2025-07-13 00:24:30 +0000"
     },
     "done": true
   },
-  "ancient_elements:crafting_in_a_higher_level": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "crafting_in_a_higher_level": "2025-07-13 00:31:41 +0000"
+      "summoned_golem": "2025-07-13 00:25:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-07-13 00:26:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
     },
     "done": true
   },
@@ -6050,15 +6050,87 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/portable_radar": {
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:crafting_in_a_higher_level": {
+    "criteria": {
+      "crafting_in_a_higher_level": "2025-07-13 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-13 00:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-13 00:33:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-13 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "securitycraft:recipes/misc/username_logger": {
     "criteria": {
-      "has_iron_block": "2025-07-13 00:24:19 +0000"
+      "has_redstone": "2025-07-13 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-13 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-13 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-13 00:41:50 +0000"
     },
     "done": true
   },
@@ -6074,27 +6146,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/remote_access_sentry": {
-    "criteria": {
-      "has_sentry": "2025-07-13 00:26:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-13 00:33:28 +0000"
     },
     "done": true
   },
@@ -6110,21 +6164,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-07-13 00:24:19 +0000"
     },
     "done": true
   },
@@ -6152,21 +6194,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-13 00:53:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
     },
     "done": true
   },
@@ -6176,21 +6206,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-07-13 00:24:30 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
     },
     "done": true
   },
@@ -6206,18 +6224,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-07-13 00:29:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-07-13 00:42:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
@@ -6230,27 +6236,9 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-07-13 00:24:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-07-13 00:24:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-07-13 00:24:19 +0000"
     },
     "done": true
   },
@@ -6269,6 +6257,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-13 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-13 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-13 00:53:17 +0000"
     },
     "done": true
   },
