@@ -91,6 +91,7 @@
       "minecraft:snowy_taiga": "2025-07-11 23:41:51 +0000",
       "minecraft:dripstone_caves": "2025-07-12 00:11:21 +0000",
       "minecraft:grove": "2025-07-12 02:01:45 +0000",
+      "minecraft:jagged_peaks": "2025-07-13 00:25:47 +0000",
       "minecraft:forest": "2025-07-11 17:43:43 +0000",
       "minecraft:ocean": "2025-07-11 17:48:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-12 01:29:34 +0000",
@@ -2184,7 +2185,9 @@
     "criteria": {
       "silver_birch_forest": "2025-07-12 00:57:48 +0000",
       "shrubland": "2025-07-11 20:02:04 +0000",
+      "cold_deciduous_forest": "2025-07-13 00:26:10 +0000",
       "muddy_river": "2025-07-11 20:23:11 +0000",
+      "autumnal_maple_forest": "2025-07-13 00:24:14 +0000",
       "willow_forest": "2025-07-11 20:26:54 +0000",
       "frozen_tundra": "2025-07-11 23:30:43 +0000",
       "grassy_beach": "2025-07-11 20:25:55 +0000",
@@ -2559,7 +2562,9 @@
     "criteria": {
       "silver_birch_forest": "2025-07-12 00:57:48 +0000",
       "shrubland": "2025-07-11 20:02:04 +0000",
+      "cold_deciduous_forest": "2025-07-13 00:26:10 +0000",
       "muddy_river": "2025-07-11 20:23:11 +0000",
+      "autumnal_maple_forest": "2025-07-13 00:24:14 +0000",
       "willow_forest": "2025-07-11 20:26:54 +0000",
       "frozen_tundra": "2025-07-11 23:30:43 +0000",
       "grassy_beach": "2025-07-11 20:25:55 +0000",
@@ -4749,6 +4754,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-13 00:23:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-13 00:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-13 00:11:30 +0000"
@@ -4758,6 +4775,18 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-13 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-07-13 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-07-13 00:28:28 +0000"
     },
     "done": true
   },
