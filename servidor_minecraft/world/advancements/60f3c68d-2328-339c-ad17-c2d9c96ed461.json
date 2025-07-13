@@ -82,9 +82,12 @@
       "minecraft:snowy_slopes": "2025-07-13 00:16:30 +0000",
       "minecraft:taiga": "2025-07-11 23:19:13 +0000",
       "minecraft:deep_ocean": "2025-07-12 01:28:29 +0000",
+      "minecraft:eroded_badlands": "2025-07-13 17:28:38 +0000",
       "minecraft:frozen_river": "2025-07-11 23:30:46 +0000",
       "minecraft:sunflower_plains": "2025-07-11 17:47:16 +0000",
+      "minecraft:badlands": "2025-07-13 17:28:25 +0000",
       "minecraft:beach": "2025-07-11 23:19:14 +0000",
+      "minecraft:stony_peaks": "2025-07-13 17:24:17 +0000",
       "minecraft:river": "2025-07-11 17:44:16 +0000",
       "minecraft:snowy_plains": "2025-07-11 23:34:24 +0000",
       "minecraft:stony_shore": "2025-07-12 01:22:41 +0000",
@@ -95,12 +98,14 @@
       "minecraft:cold_ocean": "2025-07-13 00:51:00 +0000",
       "minecraft:forest": "2025-07-11 17:43:43 +0000",
       "minecraft:deep_cold_ocean": "2025-07-13 00:51:47 +0000",
+      "minecraft:desert": "2025-07-13 17:28:55 +0000",
       "minecraft:ocean": "2025-07-11 17:48:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-12 01:29:34 +0000",
       "minecraft:flower_forest": "2025-07-11 17:47:22 +0000",
       "minecraft:frozen_peaks": "2025-07-12 02:02:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-11 22:35:35 +0000",
       "minecraft:meadow": "2025-07-12 02:01:26 +0000",
+      "minecraft:savanna": "2025-07-13 17:14:41 +0000",
       "minecraft:plains": "2025-07-11 17:41:04 +0000"
     },
     "done": false
@@ -2188,6 +2193,8 @@
       "silver_birch_forest": "2025-07-12 00:57:48 +0000",
       "shrubland": "2025-07-11 20:02:04 +0000",
       "cold_deciduous_forest": "2025-07-13 00:26:10 +0000",
+      "dry_bushland": "2025-07-13 17:33:31 +0000",
+      "steppe": "2025-07-13 17:32:38 +0000",
       "muddy_river": "2025-07-11 20:23:11 +0000",
       "autumnal_maple_forest": "2025-07-13 00:24:14 +0000",
       "willow_forest": "2025-07-11 20:26:54 +0000",
@@ -2196,18 +2203,24 @@
       "rocky_meadow": "2025-07-12 01:13:21 +0000",
       "mycotoxic_undergrowth": "2025-07-11 18:45:22 +0000",
       "ochard": "2025-07-13 01:23:59 +0000",
+      "flower_fields": "2025-07-13 17:20:26 +0000",
       "highland_fields": "2025-07-12 01:17:06 +0000",
       "maple_forest": "2025-07-11 20:23:13 +0000",
       "frozen_pine_taiga": "2025-07-11 23:30:54 +0000",
       "magnolia_highlands": "2025-07-12 01:49:50 +0000",
       "mountains": "2025-07-12 02:02:42 +0000",
+      "joshua_desert": "2025-07-13 17:28:24 +0000",
       "deciduous_forest": "2025-07-13 01:25:40 +0000",
       "boreal_forest": "2025-07-11 23:26:54 +0000",
       "glistering_meadow": "2025-07-11 22:50:48 +0000",
+      "chalk_cliffs": "2025-07-13 17:26:37 +0000",
+      "bamboo_forest": "2025-07-13 17:26:18 +0000",
       "cold_boreal_taiga": "2025-07-11 23:31:43 +0000",
       "temperate_grove": "2025-07-11 20:26:40 +0000",
       "cold_river": "2025-07-11 20:23:10 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
+      "baobab_savanna": "2025-07-13 17:34:19 +0000",
+      "grassland": "2025-07-13 17:15:39 +0000",
       "gravel_beach": "2025-07-11 20:23:43 +0000",
       "golden_boreal_taiga": "2025-07-11 23:28:02 +0000",
       "icy_heights": "2025-07-11 23:32:43 +0000"
@@ -2567,6 +2580,8 @@
       "silver_birch_forest": "2025-07-12 00:57:48 +0000",
       "shrubland": "2025-07-11 20:02:04 +0000",
       "cold_deciduous_forest": "2025-07-13 00:26:10 +0000",
+      "dry_bushland": "2025-07-13 17:33:31 +0000",
+      "steppe": "2025-07-13 17:32:38 +0000",
       "muddy_river": "2025-07-11 20:23:11 +0000",
       "autumnal_maple_forest": "2025-07-13 00:24:14 +0000",
       "willow_forest": "2025-07-11 20:26:54 +0000",
@@ -2574,17 +2589,23 @@
       "grassy_beach": "2025-07-11 20:25:55 +0000",
       "rocky_meadow": "2025-07-12 01:13:21 +0000",
       "ochard": "2025-07-13 01:23:59 +0000",
+      "flower_fields": "2025-07-13 17:20:26 +0000",
       "highland_fields": "2025-07-12 01:17:06 +0000",
       "maple_forest": "2025-07-11 20:23:13 +0000",
       "frozen_pine_taiga": "2025-07-11 23:30:54 +0000",
       "magnolia_highlands": "2025-07-12 01:49:50 +0000",
       "mountains": "2025-07-12 02:02:42 +0000",
+      "joshua_desert": "2025-07-13 17:28:24 +0000",
       "deciduous_forest": "2025-07-13 01:25:40 +0000",
       "boreal_forest": "2025-07-11 23:26:54 +0000",
+      "chalk_cliffs": "2025-07-13 17:26:37 +0000",
+      "bamboo_forest": "2025-07-13 17:26:18 +0000",
       "cold_boreal_taiga": "2025-07-11 23:31:43 +0000",
       "temperate_grove": "2025-07-11 20:26:40 +0000",
       "cold_river": "2025-07-11 20:23:10 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
+      "baobab_savanna": "2025-07-13 17:34:19 +0000",
+      "grassland": "2025-07-13 17:15:39 +0000",
       "gravel_beach": "2025-07-11 20:23:43 +0000",
       "golden_boreal_taiga": "2025-07-11 23:28:02 +0000",
       "icy_heights": "2025-07-11 23:32:43 +0000"
@@ -5757,6 +5778,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
+    "criteria": {
+      "has_meadow_sage": "2025-07-13 17:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-07-13 17:10:41 +0000"
@@ -5817,15 +5844,177 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
-    "criteria": {
-      "has_meadow_sage": "2025-07-13 17:10:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-13 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-13 17:11:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-13 17:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-13 17:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 17:35:34 +0000"
     },
     "done": true
   },

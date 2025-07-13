@@ -1031,3 +1031,90 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Jul2025 17:09:51.332] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
 [13Jul2025 17:15:15.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! -5.164733647181947,0.8338907390617862,8.729799823760004
 [13Jul2025 17:15:19.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[13Jul2025 17:15:43.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:16:58.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:18:42.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! -9.309069493718312,-1.495200877005928,-3.495872730613428
+[13Jul2025 17:19:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd was slain by Nightmare Stalker
+[13Jul2025 17:19:14.808] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[13Jul2025 17:19:52.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Timed out
+[13Jul2025 17:19:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[13Jul2025 17:20:07.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:60385] logged in with entity id 21467 at (175.49605250402124, 79.2091050394495, 3933.638766982515)
+[13Jul2025 17:20:07.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[13Jul2025 17:20:07.475] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[13Jul2025 17:20:22.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[13Jul2025 17:20:22.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[13Jul2025 17:20:32.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:35057] logged in with entity id 22186 at (-2106.3635344690656, -41.0, 3936.018309718479)
+[13Jul2025 17:20:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[13Jul2025 17:20:32.773] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[13Jul2025 17:20:42.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:22:00.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:51519] logged in with entity id 23483 at (2872.500578374032, 96.0, -3436.9292732028607)
+[13Jul2025 17:22:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[13Jul2025 17:22:00.125] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[13Jul2025 17:22:02.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[13Jul2025 17:22:49.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:22:53.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd burned to death
+[13Jul2025 17:22:53.716] [Server thread/INFO] [tombstone/]: The player JJleyendsxd has successfully been saved
+[13Jul2025 17:24:11.374] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityGorilla['Gorilla'/26772, l='ServerLevel[world]', x=2965.65, y=77.00, z=-3147.93]
+[13Jul2025 17:25:29.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:25:30.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:25:58.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:25:58.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:26:20.886] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [210, -209], pos: BlockPos{x=3360, y=21, z=-3329}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[13Jul2025 17:27:01.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Jul2025 17:27:26.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:27:29.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[13Jul2025 17:27:47.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[13Jul2025 17:29:24.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:25.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:27.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:30.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:33.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:34.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:36.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:36.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:40.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:41.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:42.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:43.093] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:46.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:47.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:48.593] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:49.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:52.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:54.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:54.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:55.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:29:59.132] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:00.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:01.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:01.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:05.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:06.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:07.193] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:07.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:11.496] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:12.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:13.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:14.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:17.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:18.940] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:19.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:20.332] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:23.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:25.131] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:25.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:26.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:30.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:31.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:30:32.095] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jul2025 17:31:10.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! 8.660750447558485,2.0,4.7245976822869125
+[13Jul2025 17:33:40.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 17:33:51.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[13Jul2025 17:33:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[13Jul2025 17:33:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[13Jul2025 17:33:53.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJleyendsxd> z
+[13Jul2025 17:34:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was doomed to fall by Fire Dragon
+[13Jul2025 17:34:22.034] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[13Jul2025 17:34:39.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[13Jul2025 17:36:02.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2399, y=81, z=-3077} BlockPos{x=2398, y=80, z=-3078}
+[13Jul2025 17:36:03.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! 7.523980727784419,-1.674996685347537,6.504673129511048
