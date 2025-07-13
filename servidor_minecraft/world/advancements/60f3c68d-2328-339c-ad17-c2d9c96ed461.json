@@ -100,6 +100,7 @@
       "minecraft:deep_cold_ocean": "2025-07-13 00:51:47 +0000",
       "minecraft:desert": "2025-07-13 17:28:55 +0000",
       "minecraft:ocean": "2025-07-11 17:48:14 +0000",
+      "minecraft:warm_ocean": "2025-07-13 17:41:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-12 01:29:34 +0000",
       "minecraft:flower_forest": "2025-07-11 17:47:22 +0000",
       "minecraft:frozen_peaks": "2025-07-12 02:02:06 +0000",
@@ -2207,6 +2208,7 @@
       "highland_fields": "2025-07-12 01:17:06 +0000",
       "maple_forest": "2025-07-11 20:23:13 +0000",
       "frozen_pine_taiga": "2025-07-11 23:30:54 +0000",
+      "tropical_river": "2025-07-13 17:38:31 +0000",
       "magnolia_highlands": "2025-07-12 01:49:50 +0000",
       "mountains": "2025-07-12 02:02:42 +0000",
       "joshua_desert": "2025-07-13 17:28:24 +0000",
@@ -2216,6 +2218,7 @@
       "chalk_cliffs": "2025-07-13 17:26:37 +0000",
       "bamboo_forest": "2025-07-13 17:26:18 +0000",
       "cold_boreal_taiga": "2025-07-11 23:31:43 +0000",
+      "saguaro_desert": "2025-07-13 17:38:10 +0000",
       "temperate_grove": "2025-07-11 20:26:40 +0000",
       "cold_river": "2025-07-11 20:23:10 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
@@ -2593,6 +2596,7 @@
       "highland_fields": "2025-07-12 01:17:06 +0000",
       "maple_forest": "2025-07-11 20:23:13 +0000",
       "frozen_pine_taiga": "2025-07-11 23:30:54 +0000",
+      "tropical_river": "2025-07-13 17:38:31 +0000",
       "magnolia_highlands": "2025-07-12 01:49:50 +0000",
       "mountains": "2025-07-12 02:02:42 +0000",
       "joshua_desert": "2025-07-13 17:28:24 +0000",
@@ -2601,6 +2605,7 @@
       "chalk_cliffs": "2025-07-13 17:26:37 +0000",
       "bamboo_forest": "2025-07-13 17:26:18 +0000",
       "cold_boreal_taiga": "2025-07-11 23:31:43 +0000",
+      "saguaro_desert": "2025-07-13 17:38:10 +0000",
       "temperate_grove": "2025-07-11 20:26:40 +0000",
       "cold_river": "2025-07-11 20:23:10 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
@@ -3549,6 +3554,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-12 01:43:13 +0000",
+      "entered_hay_storage": "2025-07-13 17:45:18 +0000",
       "entered_pirate_ship": "2025-07-12 01:31:09 +0000",
       "entered_druid_circle": "2025-07-12 01:36:18 +0000",
       "entered_watch_tower": "2025-07-11 23:41:53 +0000",
@@ -5904,6 +5910,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-07-13 17:43:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 17:35:34 +0000"
@@ -5955,6 +5967,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-13 17:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-13 17:36:12 +0000"
     },
     "done": true
   },

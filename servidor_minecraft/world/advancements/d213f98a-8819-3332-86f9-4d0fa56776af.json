@@ -77,6 +77,7 @@
       "minecraft:sunflower_plains": "2025-07-11 23:44:18 +0000",
       "minecraft:birch_forest": "2025-07-13 01:38:01 +0000",
       "minecraft:beach": "2025-07-11 23:51:48 +0000",
+      "minecraft:stony_peaks": "2025-07-13 17:38:22 +0000",
       "minecraft:river": "2025-07-11 23:20:30 +0000",
       "minecraft:stony_shore": "2025-07-13 01:24:46 +0000",
       "minecraft:grove": "2025-07-13 00:18:49 +0000",
@@ -1991,10 +1992,13 @@
       "maple_forest": "2025-07-12 00:01:57 +0000",
       "magnolia_highlands": "2025-07-13 17:09:50 +0000",
       "mountains": "2025-07-13 17:34:48 +0000",
+      "deciduous_forest": "2025-07-13 17:38:48 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
+      "chalk_cliffs": "2025-07-13 17:45:45 +0000",
       "temperate_grove": "2025-07-11 23:59:50 +0000",
       "cold_river": "2025-07-12 00:00:12 +0000",
       "pine_slopes": "2025-07-13 17:34:34 +0000",
+      "grassland": "2025-07-13 17:38:51 +0000",
       "gravel_beach": "2025-07-12 00:00:17 +0000",
       "lupine_plains": "2025-07-13 01:38:54 +0000"
     },
@@ -2013,10 +2017,13 @@
       "maple_forest": "2025-07-12 00:01:57 +0000",
       "magnolia_highlands": "2025-07-13 17:09:50 +0000",
       "mountains": "2025-07-13 17:34:48 +0000",
+      "deciduous_forest": "2025-07-13 17:38:48 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
+      "chalk_cliffs": "2025-07-13 17:45:45 +0000",
       "temperate_grove": "2025-07-11 23:59:50 +0000",
       "cold_river": "2025-07-12 00:00:12 +0000",
       "pine_slopes": "2025-07-13 17:34:34 +0000",
+      "grassland": "2025-07-13 17:38:51 +0000",
       "gravel_beach": "2025-07-12 00:00:17 +0000",
       "lupine_plains": "2025-07-13 01:38:54 +0000"
     },
@@ -4696,6 +4703,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-13 17:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-13 17:22:02 +0000"
@@ -4711,6 +4724,12 @@
   "celestisynth:recipes/combat/lunar_stone_helmet": {
     "criteria": {
       "has_item": "2025-07-13 17:31:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 17:38:53 +0000"
     },
     "done": true
   },

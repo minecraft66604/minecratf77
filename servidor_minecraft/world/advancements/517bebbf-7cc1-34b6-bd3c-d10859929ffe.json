@@ -1388,6 +1388,7 @@
       "autumnal_maple_forest": "2025-07-11 02:13:12 +0000",
       "muddy_river": "2025-07-11 02:19:15 +0000",
       "frozen_tundra": "2025-07-11 18:36:14 +0000",
+      "redstone_caves": "2025-07-13 17:45:33 +0000",
       "rocky_meadow": "2025-07-11 01:24:33 +0000",
       "mycotoxic_undergrowth": "2025-07-11 19:12:05 +0000",
       "flower_fields": "2025-07-11 01:24:25 +0000",
@@ -5771,6 +5772,18 @@
   "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
     "criteria": {
       "has_spruce_shrub": "2025-07-13 17:35:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-13 17:45:33 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-07-13 17:42:35 +0000"
     },
     "done": true
   },
