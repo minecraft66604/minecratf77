@@ -5775,11 +5775,47 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-07-13 18:00:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-07-13 17:45:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-13 17:57:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-13 18:06:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-13 18:06:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-13 18:06:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-07-13 18:00:18 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
     "criteria": {

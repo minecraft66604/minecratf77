@@ -1267,6 +1267,7 @@
       "boreal_forest": "2025-07-11 01:14:30 +0000",
       "glistering_meadow": "2025-07-11 19:21:06 +0000",
       "blackstone_basin": "2025-07-11 18:13:08 +0000",
+      "chalk_cliffs": "2025-07-13 17:59:09 +0000",
       "infernal_holt": "2025-07-11 18:13:11 +0000",
       "cold_boreal_taiga": "2025-07-11 01:52:46 +0000",
       "temperate_grove": "2025-07-11 22:41:15 +0000",
@@ -1274,6 +1275,7 @@
       "pine_slopes": "2025-07-12 02:03:24 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
+      "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000"
     },
     "done": false
@@ -1297,12 +1299,14 @@
       "mountains": "2025-07-12 02:01:56 +0000",
       "joshua_desert": "2025-07-13 17:53:59 +0000",
       "boreal_forest": "2025-07-11 01:14:30 +0000",
+      "chalk_cliffs": "2025-07-13 17:59:09 +0000",
       "cold_boreal_taiga": "2025-07-11 01:52:46 +0000",
       "temperate_grove": "2025-07-11 22:41:15 +0000",
       "cold_river": "2025-07-11 01:09:35 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
+      "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000"
     },
     "done": false
@@ -1849,11 +1853,13 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-07-13 17:59:09 +0000",
       "entered_stables": "2025-07-11 17:35:27 +0000",
       "entered_flying_dutchman": "2025-07-11 16:57:03 +0000",
       "entered_fishing_ship": "2025-07-12 03:14:26 +0000",
       "entered_deep_crypt": "2025-07-12 03:09:55 +0000",
       "entered_ice_pit": "2025-07-11 21:13:23 +0000",
+      "entered_large_dungeon": "2025-07-13 18:00:46 +0000",
       "entered_castle": "2025-07-11 20:43:59 +0000",
       "entered_sunken_shrine": "2025-07-11 16:49:32 +0000",
       "entered_ruined_building": "2025-07-11 01:15:53 +0000"
@@ -6335,6 +6341,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-07-13 02:26:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-07-13 18:00:46 +0000"
     },
     "done": true
   },

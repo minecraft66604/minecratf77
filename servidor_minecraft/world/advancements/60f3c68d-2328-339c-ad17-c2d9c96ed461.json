@@ -2200,6 +2200,7 @@
       "autumnal_maple_forest": "2025-07-13 00:24:14 +0000",
       "willow_forest": "2025-07-11 20:26:54 +0000",
       "frozen_tundra": "2025-07-11 23:30:43 +0000",
+      "rocky_reef": "2025-07-13 18:04:00 +0000",
       "grassy_beach": "2025-07-11 20:25:55 +0000",
       "rocky_meadow": "2025-07-12 01:13:21 +0000",
       "mycotoxic_undergrowth": "2025-07-11 18:45:22 +0000",
@@ -2589,6 +2590,7 @@
       "autumnal_maple_forest": "2025-07-13 00:24:14 +0000",
       "willow_forest": "2025-07-11 20:26:54 +0000",
       "frozen_tundra": "2025-07-11 23:30:43 +0000",
+      "rocky_reef": "2025-07-13 18:04:00 +0000",
       "grassy_beach": "2025-07-11 20:25:55 +0000",
       "rocky_meadow": "2025-07-12 01:13:21 +0000",
       "ochard": "2025-07-13 01:23:59 +0000",
@@ -4845,7 +4847,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "mauve_log": "2025-07-13 16:59:59 +0000",
-      "silver_birch_log": "2025-07-13 00:50:18 +0000"
+      "silver_birch_log": "2025-07-13 00:50:18 +0000",
+      "socotra_log": "2025-07-13 17:59:34 +0000"
     },
     "done": false
   },
@@ -6040,6 +6043,90 @@
   "regions_unexplored:recipes/misc/socotra_sapling_from_socotra_shrub": {
     "criteria": {
       "has_socotra_shrub": "2025-07-13 17:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-13 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-07-13 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 17:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_shrub": {
+    "criteria": {
+      "has_socotra_sapling": "2025-07-13 17:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_branch_from_socotra_log": {
+    "criteria": {
+      "has_log": "2025-07-13 17:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:this_tree_bleeds_red": {
+    "criteria": {
+      "socotra_log": "2025-07-13 17:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_planks": {
+    "criteria": {
+      "has_logs": "2025-07-13 17:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2025-07-13 17:59:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-13 18:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 18:04:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-07-13 18:04:15 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-13 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-13 18:03:12 +0000"
     },
     "done": true
   },
