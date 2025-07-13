@@ -6326,5 +6326,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 02:26:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
