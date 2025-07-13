@@ -79,6 +79,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-13 00:16:30 +0000",
       "minecraft:taiga": "2025-07-11 23:19:13 +0000",
       "minecraft:deep_ocean": "2025-07-12 01:28:29 +0000",
       "minecraft:frozen_river": "2025-07-11 23:30:46 +0000",
@@ -1539,6 +1540,7 @@
       "minecraft:creeper": "2025-07-11 23:21:59 +0000",
       "minecraft:zombified_piglin": "2025-07-11 23:09:37 +0000",
       "minecraft:witch": "2025-07-12 00:28:29 +0000",
+      "minecraft:husk": "2025-07-13 00:08:44 +0000",
       "minecraft:piglin": "2025-07-11 22:54:55 +0000",
       "minecraft:stray": "2025-07-11 23:41:25 +0000",
       "minecraft:zombie": "2025-07-11 17:57:29 +0000",
@@ -4501,13 +4503,37 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
-      "has_spruce_sapling": "2025-07-12 02:12:59 +0000"
+      "has_log": "2025-07-12 01:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-12 01:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-12 01:54:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-12 01:57:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-07-12 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-07-12 01:59:01 +0000"
     },
@@ -4567,12 +4593,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-07-12 01:54:55 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-12 02:11:51 +0000"
@@ -4597,12 +4617,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-07-12 01:59:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-12 02:11:51 +0000"
@@ -4612,12 +4626,6 @@
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-12 02:11:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-12 01:54:55 +0000"
     },
     "done": true
   },
@@ -4636,18 +4644,6 @@
   "mca:recipes/decorations/green_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-12 02:11:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-07-12 01:57:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-07-12 01:54:55 +0000"
     },
     "done": true
   },
@@ -4690,6 +4686,84 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-12 02:11:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-07-12 02:12:59 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-07-13 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-13 00:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-13 00:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-13 00:08:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-13 00:08:07 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-07-13 00:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-13 00:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-07-13 00:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-13 00:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-13 00:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-13 00:11:30 +0000"
     },
     "done": true
   },
