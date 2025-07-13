@@ -1024,3 +1024,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [13Jul2025 17:04:53.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:58053] logged in with entity id 9983 at (269.69087444437986, 78.0, 3690.300000011921)
 [13Jul2025 17:04:53.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
 [13Jul2025 17:04:53.280] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[13Jul2025 17:09:35.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[13Jul2025 17:09:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[13Jul2025 17:09:51.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:39093] logged in with entity id 14854 at (303.87120369097994, 74.0, 3681.196701363477)
+[13Jul2025 17:09:51.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[13Jul2025 17:09:51.332] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[13Jul2025 17:15:15.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd moved too quickly! -5.164733647181947,0.8338907390617862,8.729799823760004
+[13Jul2025 17:15:19.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already

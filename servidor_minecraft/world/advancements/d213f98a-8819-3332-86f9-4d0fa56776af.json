@@ -1988,6 +1988,7 @@
       "rocky_meadow": "2025-07-11 23:58:26 +0000",
       "highland_fields": "2025-07-13 01:38:59 +0000",
       "maple_forest": "2025-07-12 00:01:57 +0000",
+      "magnolia_highlands": "2025-07-13 17:09:50 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
       "temperate_grove": "2025-07-11 23:59:50 +0000",
       "cold_river": "2025-07-12 00:00:12 +0000",
@@ -2007,6 +2008,7 @@
       "rocky_meadow": "2025-07-11 23:58:26 +0000",
       "highland_fields": "2025-07-13 01:38:59 +0000",
       "maple_forest": "2025-07-12 00:01:57 +0000",
+      "magnolia_highlands": "2025-07-13 17:09:50 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
       "temperate_grove": "2025-07-11 23:59:50 +0000",
       "cold_river": "2025-07-12 00:00:12 +0000",
@@ -4242,6 +4244,12 @@
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-07-13 16:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-07-13 17:01:52 +0000"
     },
     "done": true
   },
