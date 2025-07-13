@@ -5769,6 +5769,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-13 18:11:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
     "criteria": {
       "has_spruce_shrub": "2025-07-13 17:35:54 +0000"
@@ -5786,6 +5792,12 @@
       "redstone_caves": "2025-07-13 17:45:33 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-13 18:11:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
@@ -5814,6 +5826,24 @@
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-07-13 18:00:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-13 18:11:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-07-13 18:11:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-13 18:11:02 +0000"
     },
     "done": true
   },

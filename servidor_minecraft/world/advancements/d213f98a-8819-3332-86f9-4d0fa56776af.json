@@ -1947,6 +1947,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-12 00:38:03 +0000",
       "minecraft:skeleton": "2025-07-12 00:09:30 +0000",
+      "minecraft:ravager": "2025-07-13 18:09:02 +0000",
       "minecraft:vindicator": "2025-07-12 00:37:14 +0000",
       "minecraft:spider": "2025-07-12 00:54:13 +0000",
       "minecraft:creeper": "2025-07-11 23:56:56 +0000",
@@ -4766,9 +4767,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-13 18:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-13 18:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-13 18:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 18:06:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 18:06:41 +0000"
     },
     "done": true
   },
@@ -4778,9 +4803,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 18:16:48 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-07-13 18:00:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-07-13 18:11:39 +0000"
     },
     "done": true
   },
@@ -4793,6 +4830,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-07-13 18:01:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-07-13 18:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-13 18:11:29 +0000"
     },
     "done": true
   },

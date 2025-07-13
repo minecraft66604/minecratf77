@@ -6106,6 +6106,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-13 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-13 18:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-13 18:04:15 +0000"
@@ -6118,15 +6130,9 @@
     },
     "done": true
   },
-  "naturalist:recipes/naturalist/glow_goop": {
+  "iceandfire:recipes/food/ambrosia": {
     "criteria": {
-      "has_glow_berries": "2025-07-13 18:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-13 18:03:12 +0000"
+      "has_item": "2025-07-13 18:13:23 +0000"
     },
     "done": true
   },

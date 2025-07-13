@@ -6344,6 +6344,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-07-13 18:17:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-07-13 18:00:46 +0000"
