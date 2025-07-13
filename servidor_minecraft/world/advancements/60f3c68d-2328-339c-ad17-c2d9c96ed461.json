@@ -4754,18 +4754,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-07-13 00:23:12 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-07-13 00:17:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-13 00:11:30 +0000"
@@ -4778,9 +4766,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-13 00:11:30 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-07-13 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-13 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-13 00:23:12 +0000"
     },
     "done": true
   },
@@ -4790,9 +4796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_log": "2025-07-13 00:11:30 +0000"
+      "coded_trigger": "2025-07-13 00:45:05 +0000"
     },
     "done": true
   },
