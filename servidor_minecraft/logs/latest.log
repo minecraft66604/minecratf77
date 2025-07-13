@@ -9111,3 +9111,40 @@
 [13Jul2025 01:44:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
 [13Jul2025 01:44:28.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
 [13Jul2025 01:44:29.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 01:45:04.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[13Jul2025 01:47:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[13Jul2025 01:47:58.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to -Azumi-]
+[13Jul2025 01:48:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 01:50:09.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -7.917825128135476,0.0,-6.5464109861345605
+[13Jul2025 01:50:09.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -9.048943004219979,0.0,-7.481612554951425
+[13Jul2025 01:50:09.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -10.180060880411034,0.0,-8.416814123662675
+[13Jul2025 01:50:09.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -11.311178756696066,0.0,-9.352015692280702
+[13Jul2025 01:50:09.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -12.442296633063975,0.0,-10.287217260816647
+[13Jul2025 01:50:09.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -13.573414509504985,0.0,-11.222418829280059
+[13Jul2025 01:50:09.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -14.70453238601047,0.0,-12.15762039767958
+[13Jul2025 01:50:09.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -15.835650262572827,0.0,-13.092821966022825
+[13Jul2025 01:50:09.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -10.180060887013582,0.0,-8.416814117118292
+[13Jul2025 01:50:09.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -11.311178763670341,0.0,-9.352015685367974
+[13Jul2025 01:50:09.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -12.442296640366123,0.0,-10.287217253578888
+[13Jul2025 01:50:09.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -13.57341451709631,0.0,-11.222418821755696
+[13Jul2025 01:50:09.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -14.704532393856852,0.0,-12.15762038990249
+[13Jul2025 01:50:09.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -15.835650270644166,0.0,-13.092821958022682
+[13Jul2025 01:50:11.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -7.917825138898152,0.0,-6.54641097546687
+[13Jul2025 01:50:11.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of JUANCITO) moved too quickly! -9.048943015884419,0.0,-7.481612543389929
+[13Jul2025 01:52:13.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[13Jul2025 01:52:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 01:55:44.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[13Jul2025 01:55:47.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[13Jul2025 01:56:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 01:57:36.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Voluntary Exile]
+[13Jul2025 01:58:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
+[13Jul2025 01:59:35.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Jul2025 02:00:46.696] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[13Jul2025 02:01:49.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jul2025 02:03:15.146] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Jul2025 02:03:56.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! -7.596674697621438,4.6173046547366425,-4.7151875913436925
+[13Jul2025 02:04:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[13Jul2025 02:04:07.145] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Jul2025 02:04:21.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[13Jul2025 02:04:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[13Jul2025 02:05:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
