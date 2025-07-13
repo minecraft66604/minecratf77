@@ -6272,33 +6272,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-07-13 01:43:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-07-13 01:42:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-13 01:42:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-13 02:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-13 01:56:51 +0000"
     },
     "done": true
   },
@@ -6308,15 +6284,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
-      "has_red_wool": "2025-07-13 02:04:14 +0000"
+      "bestiary": "2025-07-13 01:42:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-07-13 01:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-13 01:56:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-13 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-13 02:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-13 02:04:14 +0000"
     },
     "done": true
   },
