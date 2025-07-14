@@ -1959,12 +1959,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-12 00:38:03 +0000",
+      "minecraft:blaze": "2025-07-14 01:12:11 +0000",
       "minecraft:skeleton": "2025-07-12 00:09:30 +0000",
       "minecraft:ravager": "2025-07-13 18:09:02 +0000",
       "minecraft:vindicator": "2025-07-12 00:37:14 +0000",
       "minecraft:spider": "2025-07-12 00:54:13 +0000",
       "minecraft:creeper": "2025-07-11 23:56:56 +0000",
       "minecraft:evoker": "2025-07-13 01:32:07 +0000",
+      "minecraft:zombified_piglin": "2025-07-14 01:14:54 +0000",
       "minecraft:witch": "2025-07-13 23:57:31 +0000",
       "minecraft:husk": "2025-07-12 01:22:06 +0000",
       "minecraft:cave_spider": "2025-07-12 00:53:41 +0000",
@@ -2013,6 +2015,7 @@
       "scorching_caves": "2025-07-13 17:18:02 +0000",
       "rocky_meadow": "2025-07-11 23:58:26 +0000",
       "blackwood_taiga": "2025-07-13 20:32:57 +0000",
+      "mycotoxic_undergrowth": "2025-07-14 01:04:50 +0000",
       "flower_fields": "2025-07-13 23:00:59 +0000",
       "highland_fields": "2025-07-13 01:38:59 +0000",
       "maple_forest": "2025-07-12 00:01:57 +0000",
@@ -5943,6 +5946,174 @@
   "dungeons_enhanced:wars_and_kingdoms": {
     "criteria": {
       "entered_castle": "2025-07-14 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:enterturquosieplains": {
+    "criteria": {
+      "enterturquosieplains_0": "2025-07-14 01:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-14 01:05:30 +0000"
+    },
+    "done": false
+  },
+  "nethers_exorcism_reborn:enter_dna_forest": {
+    "criteria": {
+      "enter_dna_forest_0": "2025-07-14 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-07-14 01:04:50 +0000"
+    },
+    "done": false
+  },
+  "nethers_exorcism_reborn:encountersalamander": {
+    "criteria": {
+      "encountersalamander_0": "2025-07-14 01:04:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-14 01:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-14 01:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-14 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-14 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:nether_exorcism": {
+    "criteria": {
+      "nether_exorcism_0": "2025-07-14 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-14 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-14 01:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 01:14:45 +0000"
     },
     "done": true
   },
