@@ -6087,6 +6087,12 @@
     },
     "done": true
   },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-07-14 01:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-14 01:14:45 +0000"
