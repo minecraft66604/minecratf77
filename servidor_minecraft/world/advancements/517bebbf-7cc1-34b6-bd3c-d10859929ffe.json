@@ -1354,6 +1354,7 @@
       "rotten_flesh": "2025-07-12 03:03:24 +0000",
       "golden_carrot": "2025-07-13 00:21:50 +0000",
       "cooked_rabbit": "2025-07-11 18:35:43 +0000",
+      "cooked_chicken": "2025-07-14 00:09:11 +0000",
       "rabbit_stew": "2025-07-13 19:14:14 +0000",
       "cooked_salmon": "2025-07-12 01:39:47 +0000"
     },
@@ -1584,6 +1585,7 @@
       "minecraft:piglin_brute": "2025-07-12 03:25:12 +0000",
       "minecraft:creeper": "2025-07-11 20:21:50 +0000",
       "minecraft:evoker": "2025-07-13 01:36:49 +0000",
+      "minecraft:witch": "2025-07-14 00:28:54 +0000",
       "minecraft:husk": "2025-07-11 17:22:35 +0000",
       "minecraft:piglin": "2025-07-12 03:24:41 +0000",
       "minecraft:enderman": "2025-07-11 19:48:55 +0000",
@@ -5966,6 +5968,18 @@
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-07-13 21:46:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-13 22:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-14 00:06:54 +0000"
     },
     "done": true
   },
