@@ -1044,3 +1044,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [14Jul2025 01:05:27.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=103, z=-111} BlockPos{x=24, y=102, z=-111}
 [14Jul2025 01:11:56.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [A Terrible Fortress]
 [14Jul2025 01:18:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has completed the challenge [Is it Hot in here?]
+[14Jul2025 01:43:28.702] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[14Jul2025 01:44:40.830] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[14Jul2025 01:46:12.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Those Were the Days]

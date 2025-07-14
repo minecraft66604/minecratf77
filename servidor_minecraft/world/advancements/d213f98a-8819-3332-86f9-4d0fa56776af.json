@@ -2002,6 +2002,7 @@
       "silver_birch_forest": "2025-07-12 00:11:26 +0000",
       "shrubland": "2025-07-13 01:14:24 +0000",
       "arid_mountains": "2025-07-13 19:34:22 +0000",
+      "redstone_abyss": "2025-07-14 01:37:19 +0000",
       "steppe": "2025-07-13 19:30:06 +0000",
       "pine_taiga": "2025-07-13 23:50:29 +0000",
       "autumnal_maple_forest": "2025-07-12 00:23:06 +0000",
@@ -2024,6 +2025,7 @@
       "mountains": "2025-07-13 17:34:48 +0000",
       "deciduous_forest": "2025-07-13 17:38:48 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
+      "blackstone_basin": "2025-07-14 01:44:32 +0000",
       "chalk_cliffs": "2025-07-13 17:45:45 +0000",
       "cold_boreal_taiga": "2025-07-14 00:14:52 +0000",
       "saguaro_desert": "2025-07-13 19:33:33 +0000",
@@ -5969,7 +5971,9 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-07-14 01:04:50 +0000"
+      "mycotoxic_undergrowth": "2025-07-14 01:04:50 +0000",
+      "blackstone_basin": "2025-07-14 01:44:32 +0000",
+      "redstone_abyss": "2025-07-14 01:37:19 +0000"
     },
     "done": false
   },
